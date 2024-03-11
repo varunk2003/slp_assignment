@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+numpy
+pandas
+streamlit
+tensorflow
+transformers
+bert-extractive-summarizer
